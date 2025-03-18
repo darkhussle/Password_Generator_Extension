@@ -1,1 +1,1 @@
-# Password_Generator_Extension
+# Password_Generator_Browser_Extension
